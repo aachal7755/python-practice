@@ -41,7 +41,10 @@ This repository contains my daily Python practice programs. I am learning Python
 - Pass or Fail
 - Weekend Checker
 - Bonus Eligibility
-
+### Day 8
+- Simple Calculator
+- Grade Calculator
+- ATM Menu
 ## Skills Learned
 - Variables
 - User Input
