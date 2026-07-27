@@ -73,6 +73,8 @@ This repository contains my daily Python practice programs. I am learning Python
 ✅ Day 5 Completed  
 ✅ Day 6 Completed  
 ✅ Day 7 Completed  
+✅ Day 8 Completed
+
 
 Thank you for visiting my repository! 🚀
 
