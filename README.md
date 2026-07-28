@@ -45,6 +45,13 @@ This repository contains my daily Python practice programs. I am learning Python
 - Simple Calculator
 - Grade Calculator
 - ATM Menu
+- ### Day 9
+-For Loop Practice
+-Odd Numbers Printing
+-Square Numbers
+-Cube Numbers
+-Multiplication Table
+-Multiples of 5
 ## Skills Learned
 - Variables
 - User Input
