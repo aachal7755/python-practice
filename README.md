@@ -7,70 +7,65 @@ This repository contains my daily Python practice programs. I am learning Python
 
 ## Topics Covered
 
-### Day 1
+### Day 01
 - Name and College Program
 - User Input
 
-### Day 2
+### Day 02
 - Arithmetic Operations
   - Addition
   - Subtraction
   - Multiplication
   - Division
 
-### Day 3
+### Day 03
 - Even or Odd
 - Marks Checker
 
-### Day 4
+### Day 04
 - Positive, Negative or Zero
 - Largest of Two Numbers
 - Voting Eligibility
 
-### Day 5
+### Day 05
 - Largest of Three Numbers
 - Leap Year Checker
 - Divisible by 5 and 11
 
-### Day 6
-- Voting with Nationality (Nested If)
+### Day 06
+- Voting Eligibility (Nested If)
 - Password Checker
 - Scholarship Eligibility
 
-### Day 7
+### Day 07
 - Pass or Fail
 - Weekend Checker
 - Bonus Eligibility
-### Day 8
+
+### Day 08
 - Simple Calculator
 - Grade Calculator
 - ATM Menu
-- ### Day 9
--For Loop Practice
--Odd Numbers Printing
--Square Numbers
--Cube Numbers
--Multiplication Table
--Multiples of 5
-## Skills Learned
-- Variables
-- User Input
-- Data Types
-- Arithmetic Operators
-- Comparison Operators
-- if Statement
-- if-else
-- if-elif-else
-- Nested if
-- and Operator
-- or Operator
+
+### Day 09
+- Print Numbers 1 to 10 (For Loop)
+- Print Name 5 Times
+- Even Numbers
+- Odd Numbers
+- Multiplication Table
+- Multiples of 5
+
+### Day 10
+- Print Numbers 1 to 10 (While Loop)
+- Print Name 5 Times (While Loop)
+- Even Numbers (While Loop)
+- Odd Numbers (While Loop)
 
 ## Goal
 - Learn Python fundamentals
 - Improve problem-solving skills
 - Practice coding every day
 - Build Python projects
-- Upload daily progress on GitHub
 
 ## Progress
 ✅ Day 1 Completed  
@@ -80,9 +75,8 @@ This repository contains my daily Python practice programs. I am learning Python
 ✅ Day 5 Completed  
 ✅ Day 6 Completed  
 ✅ Day 7 Completed  
-✅ Day 8 Completed
-
+✅ Day 8 Completed  
+✅ Day 9 Completed  
+✅ Day 10 Completed 🎉
 
 Thank you for visiting my repository! 🚀
-
-⭐ More Python programs and projects coming soon.
