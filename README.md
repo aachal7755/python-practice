@@ -60,7 +60,11 @@ This repository contains my daily Python practice programs. I am learning Python
 - Print Name 5 Times (While Loop)
 - Even Numbers (While Loop)
 - Odd Numbers (While Loop)
-
+### Day 12
+- Number Triangle Pattern
+- Reverse Number Pattern
+- Same Number Pattern
+- Reverse Descending Number Pattern
 ## Goal
 - Learn Python fundamentals
 - Improve problem-solving skills
@@ -77,6 +81,8 @@ This repository contains my daily Python practice programs. I am learning Python
 ✅ Day 7 Completed  
 ✅ Day 8 Completed  
 ✅ Day 9 Completed  
-✅ Day 10 Completed 🎉
-
+✅ Day 10 Completed 
+✅ Day 11 Completed 
+✅ Day 12 Completed 
+ 
 Thank you for visiting my repository! 🚀
