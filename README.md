@@ -65,6 +65,11 @@ This repository contains my daily Python practice programs. I am learning Python
 - Reverse Number Pattern
 - Same Number Pattern
 - Reverse Descending Number Pattern
+- ### Day 13
+- Square Star Pattern
+- Alphabet Triangle Pattern
+- Reverse Alphabet Pattern
+- Same Alphabet Pattern
 ## Goal
 - Learn Python fundamentals
 - Improve problem-solving skills
@@ -83,6 +88,7 @@ This repository contains my daily Python practice programs. I am learning Python
 ✅ Day 9 Completed  
 ✅ Day 10 Completed 
 ✅ Day 11 Completed 
-✅ Day 12 Completed 
+✅ Day 12 Completed
+✅ Day 13 Completed 
  
 Thank you for visiting my repository! 🚀
