@@ -70,6 +70,12 @@ This repository contains my daily Python practice programs. I am learning Python
 - Alphabet Triangle Pattern
 - Reverse Alphabet Pattern
 - Same Alphabet Pattern
+- ### Day 14
+- Reverse Alphabet Triangle
+- Same Number Square Pattern
+- Number Square Pattern
+- Hollow Square Pattern
+- 
 ## Goal
 - Learn Python fundamentals
 - Improve problem-solving skills
@@ -89,6 +95,7 @@ This repository contains my daily Python practice programs. I am learning Python
 ✅ Day 10 Completed 
 ✅ Day 11 Completed 
 ✅ Day 12 Completed
-✅ Day 13 Completed 
+✅ Day 13 Completed
+✅ Day 14 Completed 
  
 Thank you for visiting my repository! 🚀
