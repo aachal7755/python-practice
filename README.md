@@ -75,7 +75,10 @@ This repository contains my daily Python practice programs. I am learning Python
 - Same Number Square Pattern
 - Number Square Pattern
 - Hollow Square Pattern
-- 
+- ### Day 15
+- Right Aligned Star Pattern
+- Right Aligned Number Pattern
+- Right Aligned Alphabet Pattern 
 ## Goal
 - Learn Python fundamentals
 - Improve problem-solving skills
@@ -97,5 +100,5 @@ This repository contains my daily Python practice programs. I am learning Python
 ✅ Day 12 Completed
 ✅ Day 13 Completed
 ✅ Day 14 Completed 
- 
+✅ Day 15 Completed
 Thank you for visiting my repository! 🚀
