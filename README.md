@@ -78,7 +78,12 @@ This repository contains my daily Python practice programs. I am learning Python
 - ### Day 15
 - Right Aligned Star Pattern
 - Right Aligned Number Pattern
-- Right Aligned Alphabet Pattern 
+- Right Aligned Alphabet Pattern
+- ## Day 16
+- Star Pyramid Pattern
+- Inverted Star Pyramid
+- Diamond Pattern
+- Practiced nested loops and indentation 
 ## Goal
 - Learn Python fundamentals
 - Improve problem-solving skills
@@ -101,4 +106,5 @@ This repository contains my daily Python practice programs. I am learning Python
 ✅ Day 13 Completed
 ✅ Day 14 Completed 
 ✅ Day 15 Completed
+✅ Day 16 Completed
 Thank you for visiting my repository! 🚀
