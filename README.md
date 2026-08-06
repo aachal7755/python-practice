@@ -83,7 +83,12 @@ This repository contains my daily Python practice programs. I am learning Python
 - Star Pyramid Pattern
 - Inverted Star Pyramid
 - Diamond Pattern
-- Practiced nested loops and indentation 
+- Practiced nested loops and indentation
+- ### Day 17
+- Hollow Square Pattern
+- Hollow Pyramid Pattern
+- Number Pyramid
+- Alphabet Pyramid 
 ## Goal
 - Learn Python fundamentals
 - Improve problem-solving skills
@@ -107,4 +112,5 @@ This repository contains my daily Python practice programs. I am learning Python
 ✅ Day 14 Completed 
 ✅ Day 15 Completed
 ✅ Day 16 Completed
+✅ Day 17 Completed
 Thank you for visiting my repository! 🚀
