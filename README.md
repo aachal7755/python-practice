@@ -88,7 +88,13 @@ This repository contains my daily Python practice programs. I am learning Python
 - Hollow Square Pattern
 - Hollow Pyramid Pattern
 - Number Pyramid
-- Alphabet Pyramid 
+- Alphabet Pyramid
+- ### Day 18
+- Floyd's Triangle
+- Reverse Floyd's Triangle
+- Repeated Number Pyramid
+- Repeated Reverse Number Pyramid
+- Number Pyramid
 ## Goal
 - Learn Python fundamentals
 - Improve problem-solving skills
@@ -113,4 +119,5 @@ This repository contains my daily Python practice programs. I am learning Python
 ✅ Day 15 Completed
 ✅ Day 16 Completed
 ✅ Day 17 Completed
+✅ Day 18 Completed
 Thank you for visiting my repository! 🚀
